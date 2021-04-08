@@ -1,3 +1,6 @@
 Hello my name is anant
 i am testing git
 bear with me
+
+adding more lines
+i wonder how a .java sorce code will get edited from this way
